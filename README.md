@@ -8,4 +8,4 @@ A system-agnostic tabletop companion (not a VTT) that enhances in-person TTRPG s
 - **Express + socket.io** (embedded server), **`node:sqlite` + Drizzle ORM**
 
 # Backstory
-This piece of software is something I have been playing around with for years. The first iteration of this was a website written in c# back in late 2015 for my first group. Since then it has gone though several iterations with different groups and campaigns. Now with the help of AI I have been able to get the software to a state where I am happy to share it with the public. 
+This piece of software is something I have been playing around with for years. The first iteration of this was a website written in c# back in late 2015 for my first group. Since then it has gone though several iterations with different groups and campaigns. Now with the help of AI I have been able to get the software to a state where I am happy to share it with the public. So feel free to take the app for a spin and let me know if you find any bugs or want additional features added in. 
